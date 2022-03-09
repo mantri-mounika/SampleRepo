@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="8C164501-C564-A1EC-A7AA-7D1C7597F84E">
+	<DocumentID>8C164501-C564-A1EC-A7AA-7D1C7597B84E</DocumentID>
+	<Name>8C164501-C564-A1EC-A7AA-7D1C7597B84E</Name>
+	<Description>Is Priority Fixed</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-03-08T06:36:15.231</CreationDate>
+	<Notes/>
+	<Text>Is Priority Fixed</Text>
+	<Language>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-6D79E557B84E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-7D1C75C9F84E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="8C164501-C564-A1EC-A7AA-7D1C75D9B84E">
+	<DocumentID>8C164501-C564-A1EC-A7AA-7D1C75D9784E</DocumentID>
+	<Name>8C164501-C564-A1EC-A7AA-7D1C75D9784E</Name>
+	<Description>Assign On</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-03-08T06:36:15.213</CreationDate>
+	<Notes/>
+	<Text>Assign On</Text>
+	<Language>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-6D79E557B84E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-7D1C75D8F84E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

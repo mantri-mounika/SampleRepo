@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="8C164501-C564-A1EC-A7AA-7B9A8CB0B84E">
+	<DocumentID>8C164501-C564-A1EC-A7AA-7B9A8CB0784E</DocumentID>
+	<Name>8C164501-C564-A1EC-A7AA-7B9A8CB0784E</Name>
+	<Description>Overdue</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-03-08T06:36:15.193</CreationDate>
+	<Notes/>
+	<Text>Overdue</Text>
+	<Language>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-6D79E557B84E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-7B9A8CAFF84E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="8C164501-C564-A1EC-A7AA-7B9A8C86B84E">
+	<DocumentID>8C164501-C564-A1EC-A7AA-7B9A8C86784E</DocumentID>
+	<Name>8C164501-C564-A1EC-A7AA-7B9A8C86784E</Name>
+	<Description>In progress</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-03-08T06:36:15.267</CreationDate>
+	<Notes/>
+	<Text>In progress</Text>
+	<Language>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-6D79E557B84E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-7B9A8C85F84E"
+		/>
+	</TextIdentifier>
+</TranslatedText>

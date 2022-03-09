@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="8C164501-C564-A1EC-A7AA-7D1C75C5B84E">
+	<DocumentID>8C164501-C564-A1EC-A7AA-7D1C75C5784E</DocumentID>
+	<Name>8C164501-C564-A1EC-A7AA-7D1C75C5784E</Name>
+	<Description>Email Model Id</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2022-03-08T06:36:15.212</CreationDate>
+	<Notes/>
+	<Text>Email Model Id</Text>
+	<Language>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-6D79E557B84E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="8C164501-C564-A1EC-A7AA-7D1C75C4F84E"
+		/>
+	</TextIdentifier>
+</TranslatedText>
