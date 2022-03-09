@@ -1,0 +1,55 @@
+
+<ActivityflowBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.activityflow.ActivityflowBuildingBlock"
+	typeVersion="3568fec5-9dc8-4e88-9450-22fba3065552"
+	RuntimeDocumentID="8C164542-F9E5-A1EA-A96B-0843B68E37C7">
+	<DocumentID>8C164542-F9E5-A1EA-A96B-0843B68DF7C7</DocumentID>
+	<Name>ActivityFlow</Name>
+	<Description>ActivityFlow</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2020-06-03T15:17:58.024</CreationDate>
+	<Notes/>
+	<Activityflows/>
+	<Entity>
+		<uri
+			id="8C164542-F9E5-A1EA-A96B-0843B69177C7"
+		/>
+	</Entity>
+	<InboxTask/>
+	<InlinedEntities/>
+	<OwnedActions>
+		<ActivityflowStaticAction
+			type="com.cordys.entity.buildingblocks.activityflow.ActivityflowStaticAction"
+			RuntimeDocumentID="63D668B1FD884D818B6864637E3256B6">
+			<DocumentID>F51666DA-21AF-346E-98F3-FDECB1626024</DocumentID>
+			<Name>Initiateactivityflow</Name>
+			<Description>Initiateactivityflow</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2022-03-02T09:13:30.939</CreationDate>
+			<Notes/>
+		</ActivityflowStaticAction>
+		<ActivityflowStaticAction
+			type="com.cordys.entity.buildingblocks.activityflow.ActivityflowStaticAction"
+			RuntimeDocumentID="250BA7F770A04B3FAF6073D58A08552E">
+			<DocumentID>6201F4A5-D9AB-33EC-8FE0-C3282609D1EB</DocumentID>
+			<Name>StartFlow</Name>
+			<Description>Start flow</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2022-03-02T09:13:30.937</CreationDate>
+			<Notes/>
+		</ActivityflowStaticAction>
+		<ActivityflowStaticAction
+			type="com.cordys.entity.buildingblocks.activityflow.ActivityflowStaticAction"
+			RuntimeDocumentID="8177FAA736BE4CC7B0B94C046E195C09">
+			<DocumentID>E3E9FE35-2DD9-3CCE-BC64-A525ED976162</DocumentID>
+			<Name>TerminateFlow</Name>
+			<Description>Terminate flow</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2022-03-02T09:13:30.922</CreationDate>
+			<Notes/>
+		</ActivityflowStaticAction>
+	</OwnedActions>
+	<Properties/>
+	<Relationships/>
+</ActivityflowBuildingBlock>
